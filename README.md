@@ -1,7 +1,7 @@
 # registry.terraform.io
 ## Repo to keep compiled plugins for darwin_arm64  - compiled from registry.terraform.io
 
-This is a repo that can be directly clone into 
+This is a repo that can be directly cloned into 
 
 **~/.terraform.d/plugins/**
 
